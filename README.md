@@ -26,7 +26,8 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 ### Comandos necessários
 1. Clone o repositório.
 2. Navegue até o diretório do projeto.
-3. Execute o script principal com o comando `python nome_do_arquivo.py`.
+3. Instale as dependencias com `pip3 install -r requirements.txt` 
+4. Execute o script principal com o comando `python3 nome_do_arquivo.py`.
 
 ## Uso 
 Após a execução do script, a aplicação abrirá uma janela onde será possível visualizar a matriz gerada. O programa automaticamente encontrará e destacará os dois pontos mais próximos na matriz, exibindo-os em uma cor diferente.
