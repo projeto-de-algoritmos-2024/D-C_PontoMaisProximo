@@ -21,7 +21,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ### Pré-requisitos
 - Python 3.x
-- Pyxel (pode ser instalado via pip: `pip install pyxel`)
+- Pyxel (pode ser instalado via pip: `pip3 install pyxel`)
 
 ### Comandos necessários
 1. Clone o repositório.
