@@ -36,3 +36,7 @@ Após a execução do script, a aplicação abrirá uma janela onde será possí
 
 ## Outros 
 Este projeto pode ser estendido para analisar diferentes tamanhos de matriz ou para implementar outras métricas de proximidade além da distância euclidiana.
+
+## Video de apresentação
+
+[Video de apresentação](https://youtu.be/HxK4Mayc7WU)
