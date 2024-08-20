@@ -1,45 +1,35 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Teia-de-Pontos
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 20  
+**Conteúdo da Disciplina**: Programação Dinâmica (PD)  
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| Matrícula | Aluno |
+| --------- | ----- |
+| 190028122  | Sabrina Berno |
+| 211029586  | Gabriel Sabanai |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto consiste em uma aplicação desenvolvida com Pyxel que gera uma matriz aleatória de 25x25, onde cada posição pode conter um ponto ou estar vazia. A aplicação busca identificar os dois pontos mais próximos na matriz utilizando a distância euclidiana. O projeto visa ilustrar o conceito de otimização e busca em uma matriz, tópicos relacionados à Programação Dinâmica.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python  
+**Framework**: Pyxel  
+
+### Pré-requisitos
+- Python 3.x
+- Pyxel (pode ser instalado via pip: `pip install pyxel`)
+
+### Comandos necessários
+1. Clone o repositório.
+2. Navegue até o diretório do projeto.
+3. Execute o script principal com o comando `python nome_do_arquivo.py`.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Após a execução do script, a aplicação abrirá uma janela onde será possível visualizar a matriz gerada. O programa automaticamente encontrará e destacará os dois pontos mais próximos na matriz, exibindo-os em uma cor diferente.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Este projeto pode ser estendido para analisar diferentes tamanhos de matriz ou para implementar outras métricas de proximidade além da distância euclidiana.
